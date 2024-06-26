@@ -11,6 +11,7 @@ the latest web insights, or informative videos, this app has you covered. Experi
 
 https://github.com/alanfrancis442/rag-agent/assets/119670162/55fc20c8-1b8e-46d1-a89e-3de59b48cef9
 
+![Screenshot 2024-06-26 185548](https://github.com/alanfrancis442/rag-agent/assets/119670162/45b5935f-49ef-4e46-8921-1c0205800ad8)
 
 
 # Project Architecture
