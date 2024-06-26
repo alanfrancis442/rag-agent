@@ -1,8 +1,12 @@
 # Rag Agent
 
-This RAG LLM App leverages advanced retrieval-augmented generation technology to provide precise and comprehensive answers by accessing multiple sources. With seamless integration to Google Drive,
-web search, and YouTube search, the app retrieves the most relevant data to augment its responses, ensuring you get the most accurate and contextually rich information. Whether you need documents from your drive,
-the latest web insights, or informative videos, this app has you covered. Experience the next level of AI-powered information retrieval and knowledge generation.
+This RAG LLM App leverages advanced retrieval-augmented generation technology to provide precise and comprehensive answers by accessing multiple sources. With seamless integration to <br /> <br />
+- 🔍 DuckDuckGo search <br />
+- 📹 YouTube search <br />
+- 📝 Note-saving functionality <br />
+- 💾 Local storage capabilities <br /> <br />
+the app retrieves the most relevant data to augment its responses, ensuring you get the most accurate and contextually rich information. Whether you need documents from your drive,
+the latest web insights, or informative videos, the project works completely with a local LLM, meaning there's no need to pay any costs to run it. this app has you covered. Experience the next level of AI-powered information retrieval and knowledge generation.
 
 ![Screenshot 2024-06-26 182916](https://github.com/alanfrancis442/rag-agent/assets/119670162/70849016-94f9-4f43-adba-4d671a6f95c6)
 
